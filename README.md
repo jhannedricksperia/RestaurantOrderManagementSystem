@@ -1,6 +1,13 @@
 # RestaurantOrderManagementSystem
 PAT’Z RESTAURANT: Restaurant Order Management System with GUI and Database
 
+Roles:
+- PERIA, JHANN EDRICK S. – Project Leader/Programmer
+- ANTONIO, JAMES IAN S. – Programmer
+- DELA PENA, MJ - GUI Designer
+- ESTRELLA, MARIA PATRISHA - Programmer
+- MIRANDA, LHERIZA A. – Programmer
+
 1 - Project Title  
 	PAT’Z RESTAURANT: Restaurant Order Management System with GUI and Database
 
